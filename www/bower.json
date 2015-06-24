@@ -1,0 +1,26 @@
+{
+  "name": "wallpap",
+  "version": "0.1.0",
+  "description": "Android app for customize wallpaper changin it over time",
+  "main": "index.html",
+  "authors": [
+    "soraCoder",
+    "Abaddon"
+  ],
+  "license": "MIT",
+  "homepage": "codingpals.esy.es",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#1.0",
+    "core-scaffold": "Polymer/core-scaffold#~0.5.6",
+    "core-item": "Polymer/core-item#~0.5.6",
+    "paper-input": "Polymer/paper-input#~0.5.6",
+    "paper-fab": "Polymer/paper-fab#~0.5.6"
+  }
+}
